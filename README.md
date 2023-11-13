@@ -1,3 +1,3 @@
 # PagoLink-NodeJS
-npm install
+npm install\
 npm start
